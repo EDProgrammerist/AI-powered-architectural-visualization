@@ -1,7 +1,7 @@
 <div align="center">
   <br />
     <a href="https://www.tiktok.com/@ancientprogrammerist/video/7606382439010700564" target="_blank">
-      <img src="public/readme/readme-hero.webp" alt="Project Banner">
+      <img src="https://github.com/EDProgrammerist/AI-powered-architectural-visualization/blob/master/public/readme/update.png?raw=true" alt="Project Banner">
     </a>
   <br />
 
